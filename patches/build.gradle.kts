@@ -1,14 +1,14 @@
-group = "app.template"
+group = "com.community.canon"
 
 patches {
     // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Raj's Patches"
+        description = "Patches for Canon Connect"
+        source = "git@github.com:RajDave69/rajs-morphe-patches.git"
+        author = "Raj Dave"
         contact = "na"
-        website = "na"
+        website = "rajtech.me"
         license = "GPLv3"
     }
 }
